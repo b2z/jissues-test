@@ -1,2 +1,2 @@
 # jissues-test
-Joomla! Issue Tracker Application testing repo
+Joomla! Issue Tracker Application testing repo 2
